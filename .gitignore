@@ -2,3 +2,8 @@
 *.iml
 
 
+target/
+.classpath
+.project
+.gitgnore
+.class
